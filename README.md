@@ -18,7 +18,7 @@ Passionnée par la technologie et la résolution de problèmes, j'ai effectué u
 ### 🎓 Parcours & Objectifs
 
 - 🏫 Actuellement étudiante à l'**ITIAM** (Développement Informatique).
-- 📜 Titulaire d'une **Licence en Droit**.
+- 📜  **Licence en Droit**.
 - 🚀 Mon objectif est de fusionner mes deux domaines pour concevoir des solutions numériques structurées et performantes.
 
 ---
